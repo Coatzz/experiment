@@ -4,7 +4,7 @@
 
 ## 👥 TRACER DAO
 
-* [Tracer DAO](https://tracer.finance)
+* [Tracer DAO](https://app.gitbook.com/o/-MbdsGfc3PEsikGQpmCo/s/c7RWzlPWCpuLBm0Xz4Xw/)
 * [> Community](https://tracer.finance)
 * [> Governance](https://tracer.finance)
 * [> Tokenomics](https://tracer.finance)
