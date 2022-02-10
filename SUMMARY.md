@@ -27,6 +27,7 @@
 ## 💾 DEVELOPERS
 
 * [Bounties](developers/bounties.md)
+* [Bug reporting](security/bug-reporting.md)
 * [GitHub](https://github.com/tracer-protocol/tracer-dao)
 
 ## 👀 GET INVOLVED
