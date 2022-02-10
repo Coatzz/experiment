@@ -21,7 +21,7 @@
 
 ## 🔐 SECURITY
 
-* [Audits](security/audits.md)
+* [Audits & Security](security/audits-and-security.md)
 * [Bug reporting](security/bug-reporting.md)
 
 ## 💾 DEVELOPERS
