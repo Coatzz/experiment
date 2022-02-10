@@ -12,10 +12,8 @@
 
 ## 📦 PRODUCTS
 
-* [Pools](https://tracer.finance)
-* [> Beginner guide](https://tracer.finance)
-* [Perpetual Swaps](https://tracer.finance)
-* [Strategies](https://tracer.finance)
+* [Perpetual Pools](https://app.gitbook.com/o/-MbdsGfc3PEsikGQpmCo/s/kfN6trJwMTrtfGeIe8lX/)
+* [Perpetual Swaps](https://app.gitbook.com/o/-MbdsGfc3PEsikGQpmCo/s/cXjav2VVoZ1eVRNKtbCA/)
 
 ## 🔐 SECURITY
 
