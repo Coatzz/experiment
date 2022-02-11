@@ -12,7 +12,6 @@
 * [> Community](https://tracer.finance)
 * [> Governance](https://tracer.finance)
 * [> Tokenomics](https://tracer.finance)
-* [> FAQ](https://tracer.finance)
 
 ## 📦 PRODUCTS
 
