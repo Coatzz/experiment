@@ -36,4 +36,4 @@
 
 ## 🗃 Deprecated Docs
 
-* [Perpetual Pools v1](https://tracer.finance)
+* [Docs (2021)](https://tracer.finance)
