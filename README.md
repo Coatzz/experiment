@@ -2,7 +2,7 @@
 
 Welcome to the Tracer docs. You are currently at the _docs Portal_: a jumping-off point for the many spaces that describe Tracer and its components. Before you go exploring, read a little about the protocol below.
 
-## Introduction
+## Intro
 
 Tracer is community-led project that develops open-source software with a goal to standardise derivative contracts. Along the way, we hope to get derivatives into the hands of many more people than currently have access to them. &#x20;
 
