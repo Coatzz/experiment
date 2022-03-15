@@ -24,7 +24,7 @@ Everything we've developed that you can use. Dive right in!
 
 #### Security
 
-Everything we've done (and are doing) to make sure that the code you trust your funds to is invulnerable.
+Everything we've done (and are doing) to make sure that the code handling your funds is invulnerable.
 
 #### Developers&#x20;
 
