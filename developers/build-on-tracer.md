@@ -8,6 +8,8 @@ The Tracer product suite currently consists of the Perpetual Pools template. The
 
 <mark style="color:red;">INSERT INFOGRAPHIC SHOWING THE MOST IMPORTANT PROPERTIES OF PPv2 ALONG WITH EXAMPLE USE CASES</mark>
 
+<mark style="color:red;">LINK TO THE DEV DOCS OF EACH PRODUCT (E.G. IN SIDEBAR)</mark>
+
 To learn more, visit the [Perpetual Pools development guide](https://app.gitbook.com/s/kfN6trJwMTrtfGeIe8lX/developer-resources/development-guide).
 
 {% hint style="info" %}
