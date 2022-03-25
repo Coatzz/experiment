@@ -9,7 +9,6 @@
 ## 👥 TRACER DAO
 
 * [Tracer DAO](https://app.gitbook.com/o/-MbdsGfc3PEsikGQpmCo/s/c7RWzlPWCpuLBm0Xz4Xw/)
-*
 * [> Governance](https://app.gitbook.com/s/c7RWzlPWCpuLBm0Xz4Xw/governance/governance)
 * [Tokenomics](https://app.gitbook.com/s/c7RWzlPWCpuLBm0Xz4Xw/tokenomics/tokenomics)
 
