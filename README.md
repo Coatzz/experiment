@@ -1,6 +1,6 @@
 # Home
 
-Welcome to the Tracer docs. You are currently at the _docs Portal_: a jumping-off point for the many spaces that describe Tracer and its components. Before you go exploring, read a little about the protocol below.
+Welcome to the Tracer docs. You are currently at the _docs Portal_: a jumping-off point for the many spaces that describe Tracer and its components. Before you go exploring, why not read a little about the protocol?
 
 ## Intro
 
