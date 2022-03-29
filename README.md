@@ -8,7 +8,7 @@ Tracer is community-led project that develops open-source software with a goal t
 
 Financial derivatives are, traditionally, a restricted asset class. But we think they are far too useful to prohibit people from using. For one, they let people manage risk and be more efficient with their capital. That alone should justify the need for universal access to these products.&#x20;
 
-So, we are developing on top of the **only** platform that lets anyone access the contracts and promises to never shut down the agreements – a public blockchain. At this stage, our code is written in [Solidity](https://soliditylang.org) for the [Ethereum](https://ethereum.org/en/) blockchain, but we're only getting started. Want to know what's next? Check out the Discord:
+So, we are developing on top of the **only** platform that lets anyone access the contracts and promises to never shut down the agreements – a public blockchain. At this stage, our code is written in [Solidity](https://soliditylang.org) for the [Ethereum](https://ethereum.org/en/) blockchain, but we're only getting started. Want to know what we're doing next? Check out the Discord:
 
 {% embed url="https://discord.com/invite/cNUtXBkmNH" %}
 
