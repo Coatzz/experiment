@@ -10,7 +10,7 @@
 
 ### Risk Harbor
 
-Trace's Perpetual Pools' smart contracts are protected by Rish Harbor against smart contract risk and attacks. Read more about the partnership [here](https://tracer.finance/radar/risk-harbor/).
+Tracer's Perpetual Pools' smart contracts are protected by Rish Harbor against smart contract risk and attacks. Read more about the partnership [here](https://tracer.finance/radar/risk-harbor/).
 
 ### DeFi Safety
 
