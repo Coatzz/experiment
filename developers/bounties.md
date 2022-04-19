@@ -8,7 +8,7 @@ description: >-
 
 We list some of the open bounties below but are open to suggestions that support the Tracer vision & roadmap.
 
-To get started with a bounty, join our [Discord](https://discord.gg/TracerDAO) and ping the core team. We hope that bounty teams become long-term developers & advocates for the Tracer protocol. For more information on the different ways on contributing to Tracer DAO, see [Community](https://app.gitbook.com/s/c7RWzlPWCpuLBm0Xz4Xw/community/community).
+To get started with a bounty, join our [Discord](https://discord.gg/TracerDAO) and ping the core team. We hope that bounty teams become long-term developers & advocates for the Tracer protocol. For more information on the different ways on contributing to Tracer DAO, see [Community](broken-reference).
 
 ## Vanilla Options
 
