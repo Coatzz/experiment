@@ -15,4 +15,4 @@ Tracer's Perpetual Pools' smart contracts are protected by Rish Harbor against s
 
 ### DeFi Safety
 
-DeFi Safety completed a report on Tracer DAO in October 2021. You can find the report for Tracer [here](https://www.defisafety.com/pqrs/119).
+DeFi Safety completed a report on Tracer DAO in October 2021. Find the report for Tracer [here](https://www.defisafety.com/pqrs/119).
