@@ -12,8 +12,6 @@ So, we are developing on the **only** platform that lets anyone access the contr
 
 {% embed url="https://discord.com/invite/cNUtXBkmNH" %}
 
-![](.gitbook/assets/Tracer\_Logo\_Blue\_CMYK.jpg)
-
 ## Nav
 
 > Here's a quick guide to the spaces you can access from the Portal:
