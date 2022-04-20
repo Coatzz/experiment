@@ -7,5 +7,7 @@ Since September 24, 2021, Tracer maintains a $1,000,000 USD bug bounty for the P
 {% embed url="https://immunefi.com/bounty/tracer" %}
 
 {% hint style="info" %}
-If you have found a vulnerability in a contract and want to contact the team privately, you can submit the issue to e: info@tracer.finance. Note that we will not open attached files or click on links.&#x20;
+If you have found a vulnerability in a contract and want to contact the team privately, you can submit the issue via email: info@tracer.finance.&#x20;
+
+Note that we will not open attached files or click on links.&#x20;
 {% endhint %}
