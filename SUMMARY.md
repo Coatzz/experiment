@@ -16,7 +16,7 @@
 
 * [Perpetual Pools](https://app.gitbook.com/o/-MbdsGfc3PEsikGQpmCo/s/kfN6trJwMTrtfGeIe8lX/)
 * [Perpetual Swaps](https://app.gitbook.com/o/-MbdsGfc3PEsikGQpmCo/s/cXjav2VVoZ1eVRNKtbCA/)
-* [Data](https://app.gitbook.com/o/-MbdsGfc3PEsikGQpmCo/s/dbcaaj2MYrQ0h7O4wkSu/)
+* [Indices](https://app.gitbook.com/o/-MbdsGfc3PEsikGQpmCo/s/dbcaaj2MYrQ0h7O4wkSu/)
 
 ## 🔐 SECURITY
 
